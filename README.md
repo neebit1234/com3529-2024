@@ -18,8 +18,8 @@ Jump to:
 | Week | Lecture | Lab | Materials |
 |------|---------|-----|-----------|
 | 1    | **Introduction**<ul><li>Beizer's Maturity Model</li><li>Why finding all bugs is impossible</li><li>How software failures happen (the RIPR model)</li></ul>| | Not available yet|
-|2     | <ul><li>Forms</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Forms</li><li>Sessions</li></ul> | | Not available yet|
-|3     | <ul><li>Databases</li><li>Object Relational Mapping</li></ul> | | Not available yet|
+|2     | **Testing Big and Small Part 1**<ul><li>Test Automation</li><li>Testing Scope (The Test Triangle)</li><li>Unit Testing Part 1<ul><li> Avoiding Brittle Tests</li></ul></li>/ul> | | Not available yet|
+|3     | **Testing Big and Small Part 1**<ul><li>Test Automation</li><li>Testing Scope (The Test Triangle)</li><li>Unit Testing Part 1: Avoiding Brittle Tests</li>/ul> | | Not available yet|
 |4     | <ul><li>Testing</li><li>Debugging</li></ul> | | Not available yet| 
 |5     | <ul><li>Refactoring</li></ul> | | Not available yet|
 |6     | <ul><li>TBA</li></ul> | | Not available yet|
