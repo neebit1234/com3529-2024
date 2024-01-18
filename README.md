@@ -7,7 +7,7 @@ Jump to:
 * [2. Schedule and Materials](#2-schedule-and-materials)
 * [3. Assesment](#3-assessment)
 
-## 1. eaching Staff
+## 1. Teaching Staff
 
   |<img src=".images/phil.jpg" width="150"/> | <img src=".images/jose" width="150"/> | <img src=".images/islam" width="150"/> | <img src=".images/megan" width="150"/> | <img src=".images/rui" width="150"/> |
   |:-:|:-:|:-:|:-:|:-:|
@@ -29,3 +29,11 @@ Jump to:
 |10    | TBA | TBA | Not available yet|
 
 ## 3. Assessment
+
+COM3529 is assessed 100% by an exam, to be scheduled sometime in Weeks 13, 14 or 15.
+
+**The labs are designed to prepare you with exercises that will be similar to questions asked in the exam**. 
+
+The exam may feature questions **requiring you to write Java code**. In this questions you will be expected to write code that is syntactically correct, including writing JUnit tests that may require calls to methods in libraries studied in the module. 
+
+
