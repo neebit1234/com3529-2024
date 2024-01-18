@@ -11,13 +11,13 @@ Jump to:
 
   |<img src=".images/phil.jpg" width="150"/> | <img src=".images/jose" width="150"/> | <img src=".images/islam" width="150"/> | <img src=".images/megan" width="150"/> | <img src=".images/rui" width="150"/> |
   |:-:|:-:|:-:|:-:|:-:|
-  | [Phil McMinn](https://mcminn.info) <br /> Lecturer, Weeks 1-5 | [José Rojas]([https://www.dshin.info](https://jmrojas.github.io)) <br /> Lecturer, Weeks 6-10 | Islam Elgendy | Megan Maton | Rui |
+  | **[Phil McMinn](https://mcminn.info)** <br /> Lecturer, Weeks 1-5 | **[José Rojas](https://jmrojas.github.io)** <br /> Lecturer, Weeks 6-10 | **Islam Elgendy** | **Megan Maton** | **Rui** |
 
 ## 2. Schedule and Materials
 
 | Week | Lecture | Lab | Materials |
 |------|---------|-----|-----------|
-| 1    | Introduction<ul><li>Beizer's Maturity Model</li><li>Why finding all bugs is impossible</li><li>How software failures happen (the RIPR model)</li></ul>| | Not available yet|
+| 1    | **Introduction**<ul><li>Beizer's Maturity Model</li><li>Why finding all bugs is impossible</li><li>How software failures happen (the RIPR model)</li></ul>| | Not available yet|
 |2     | <ul><li>Forms</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Forms</li><li>Sessions</li></ul> | | Not available yet|
 |3     | <ul><li>Databases</li><li>Object Relational Mapping</li></ul> | | Not available yet|
 |4     | <ul><li>Testing</li><li>Debugging</li></ul> | | Not available yet| 
