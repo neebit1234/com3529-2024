@@ -9,9 +9,9 @@ Jump to:
 
 ## 1. eaching Staff
 
-  |<img src=".images/phil.jpg" width="150"/> | <img src=".images/donghwan.jpg" width="150"/>|
-  |:----------------------------------------:|:--------------------------------------------:|
-  | [Phil McMinn](https://mcminn.info) <br /> Lecturer, Weeks 1-5 | [Donghwan Shin](https://www.dshin.info) <br /> Lecturer, Weeks 6-10 |
+  |<img src=".images/phil.jpg" width="150"/> | <img src=".images/jose" width="150"/> | <img src=".images/islam" width="150"/> | <img src=".images/megan" width="150"/> | <img src=".images/rui" width="150"/> |
+  |:-:|:-:|:-:|:-:|:-:|
+  | [Phil McMinn](https://mcminn.info) <br /> Lecturer, Weeks 1-5 | [José Rojas]([https://www.dshin.info](https://jmrojas.github.io)) <br /> Lecturer, Weeks 6-10 | Islam Elgendy | Megan Maton | Rui |
 
 ## 2. Schedule and Materials
 
