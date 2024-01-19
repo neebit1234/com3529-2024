@@ -36,7 +36,7 @@ Lectures will be held on **Tuesdays 1-2pm in the [Sir Henry Stephenson Building]
 
 ### Practical Sessions (Labs)
 
-Practical Sessions (Labs) will be held on **Thursdays 1-2pm in Computer Room 3 on level 2 of the [Diamond](https://www.sheffield.ac.uk/engineering/diamond-engineering/floor-plans)**. These sessions will be a mix of coding and paper/pen exercises that are designed to help you prepare for the exam, based on that week's lecture materials. You'll need to bring your own laptop to the session, and have a reasonably up to date version of Java installed on it. Or, you may use the departmental laptop loan facility. 
+Practical Sessions (Labs) will be held on **Thursdays 1-2pm in Computer Room 3 on level 2 of the [Diamond](https://www.sheffield.ac.uk/engineering/diamond-engineering/floor-plans)**. These sessions will be a mix of coding and paper/pen exercises that are designed to help you prepare for the exam, based on that week's lecture materials. You'll need to bring your own laptop to the session, and have a reasonably up to date version of Java installed on it. Or, you can use the laptop loan facility. 
 
 
 ## 3. Assessment
