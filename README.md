@@ -5,7 +5,7 @@ Welcome! This repository code examples, practical sheets, and slides to support 
 Jump to:
 * [1. Teaching Staff](#1-teaching-staff)
 * [2. Schedule and Materials](#2-schedule-and-materials)
-* [3. Assesment](#3-assessment)
+* [3. Assessment](#3-assessment)
 
 ## 1. Teaching Staff
 
