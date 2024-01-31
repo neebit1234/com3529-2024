@@ -15,7 +15,7 @@ Jump to:
 
 ## 2. Schedule and Materials
 
-| Week | Lecture <br/> Tuesdays 1-2pm | Practical Session <br /> Thursdays 1-2pm | Materials |
+| Week | Lecture | Practical Session | Materials |
 |-:|-|-|--|
 | 1 | **Introduction**<ul><li>Beizer's Maturity Model</li><li>Why finding all bugs is impossible</li><li>How software failures happen (the RIPR model)</li></ul>| TBA | Not available yet|
 |2 | **Testing Big and Small Part 1**<ul><li>Test Automation</li><li>Testing Scope (The Test Triangle)</li><li>Unit Testing Part 1<ul><li> Avoiding Brittle Tests</li></ul></li></ul> | TBA | Not available yet|
