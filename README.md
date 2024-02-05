@@ -19,7 +19,14 @@ Jump to:
 |-:|-|-|
 | 1 | **Introduction**<ul><li>Beizer's Maturity Model</li><li>Why finding all bugs is impossible</li><li>How software failures happen (the RIPR model)</li></ul>| TBA | 
 
-
+|2 | **Testing Big and Small Part 1**<ul><li>Test Automation</li><li>Testing Scope (The Test Triangle)</li><li>Unit Testing Part 1<ul><li> Avoiding Brittle Tests</li></ul></li></ul> | TBA | 
+TBA | 
+|6 | TBA | TBA |
+|7 | TBA | TBA |
+|Easter| | |
+|8 | TBA | TBA |
+|9 | TBA | TBA |
+|10| TBA | TBA |
 
 ### Lectures
 
