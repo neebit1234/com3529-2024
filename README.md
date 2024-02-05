@@ -18,8 +18,7 @@ Jump to:
 | Week | Lecture | Practical Session |
 |-:|-|-|
 |1 | **Introduction**<ul><li>Beizer's Maturity Model</li><li>Why finding all bugs is impossible</li><li>How software failures happen (the RIPR model)</li></ul>| TBA | 
-|5 | **Coverage Criteria, Part 2**<ul><li>Control Flow Analysis and Testing</li><li>Data Flow Analysis and Testing</li><li>Input Domain Analysis and Testing</li></ul> | 
-TBA |
+|5 | **Coverage Criteria, Part 2**<ul><li>Control Flow Analysis and Testing</li><li>Data Flow Analysis and Testing</li><li>Input Domain Analysis and Testing</li></ul> | TBA |
 |6 | TBA | TBA |
 |7 | TBA | TBA |
 |Easter| | |
