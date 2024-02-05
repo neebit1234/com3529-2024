@@ -9,7 +9,7 @@ Jump to:
 
 ## 1. Teaching Staff
 
-  |<img src="materials/images/phil.jpg" width="150"/> | <img src="materials/images/jose.jpg" width="150"/> | <img src="materials/images/islam.jpg" width="150"/> | <img src="materials/images/megan.jpg" width="150"/> | <img src="materials/images/rui.jpg" width="150"/> |
+  |<img src="misc/images/phil.jpg" width="150"/> | <img src="misc/images/jose.jpg" width="150"/> | <img src="misc/images/islam.jpg" width="150"/> | <img src="misc/images/megan.jpg" width="150"/> | <img src="misc/images/rui.jpg" width="150"/> |
   |:-:|:-:|:-:|:-:|:-:|
   | **[Phil McMinn](https://mcminn.info)** <br /> Lecturer <br /> Weeks 1-5 | **[José Rojas](https://jmrojas.github.io)** <br /> Lecturer <br /> Weeks 6-10 | **Islam Elgendy** <br /> Teaching Assistant | **Megan Maton** <br /> Demonstrator | **Ruizhen (Rui) Gu** <br /> Demonstrator|
 
