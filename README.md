@@ -17,10 +17,7 @@ Jump to:
 
 | Week | Lecture | Practical Session |
 |-:|-|-|
-| 1 | **Introduction**<ul><li>Beizer's Maturity Model</li><li>Why finding all bugs is impossible</li><li>How software failures happen (the RIPR model)</li></ul>| TBA | 
-
-|2 | **Testing Big and Small Part 1**<ul><li>Test Automation</li><li>Testing Scope (The Test Triangle)</li><li>Unit Testing Part 1<ul><li> Avoiding Brittle Tests</li></ul></li></ul> | TBA | 
-TBA | 
+|1 | **Introduction**<ul><li>Beizer's Maturity Model</li><li>Why finding all bugs is impossible</li><li>How software failures happen (the RIPR model)</li></ul>| TBA | 
 |6 | TBA | TBA |
 |7 | TBA | TBA |
 |Easter| | |
