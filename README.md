@@ -17,7 +17,7 @@ Jump to:
 
 | Week | Lecture | Practical Session |
 |-:|-|-|
-|1 | **[Introduction](week1/introduction.pdf)**<ul><li>Beizer's Maturity Model</li><li>Why finding all bugs is impossible</li><li>How software failures happen (the RIPR model)</li></ul>| TBA |
+|1 | **[Introduction](week1/1-introduction.pdf)**<ul><li>Beizer's Maturity Model</li><li>Why finding all bugs is impossible</li><li>How software failures happen (the RIPR model)</li></ul>| TBA |
 |2 | **Testing Big and Small Part 1**<ul><li>Test Automation</li><li>Testing Scope (The Test Triangle)</li><li>Unit Testing Part 1<ul><li> Avoiding Brittle Tests</li></ul></li></ul> | TBA | 
 |3 | **Testing Big and Small Part 2**<ul><li>Unit Testing Part 2<ul><li>Writing Clear Unit Tests</li><li>Test Doubles</li></ul></li></ul> | TBA | 
 |4 | **NB:** For this week only, the lecture will be on *Thursday* at 1pm in LT2 of the Sir Henry Stephenson Building. <br /> <br /> **Testing Big and Small Part 3**<ul><li>Larger Tests</li></ul>**Coverage Criteria, Part 1**<ul><li>Introduction to Coverage Criteria</li></ul> | **NB:** For this week only, the lecture will be on *Tuesday* at 1pm in CR3 of the Diamond. <br /> <br /> TBA |
