@@ -1,6 +1,6 @@
 package uk.ac.shef.com3529;
 
-public class Assignment1 {
+public class Week1 {
     /*
      *  If x == null throw a NullPointerException, else return
      *  the index of the last element in x that equals y.
