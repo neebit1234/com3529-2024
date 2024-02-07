@@ -9,26 +9,25 @@ Jump to:
 
 ## 1. Teaching Staff
 
-  |<img src="materials/images/phil.jpg" width="150"/> | <img src="materials/images/jose.jpg" width="150"/> | <img src="materials/images/islam.jpg" width="150"/> | <img src="materials/images/megan.jpg" width="150"/> | <img src="materials/images/rui.jpg" width="150"/> |
+  |<img src="misc/images/phil.jpg" width="150"/> | <img src="misc/images/jose.jpg" width="150"/> | <img src="misc/images/islam.jpg" width="150"/> | <img src="misc/images/megan.jpg" width="150"/> | <img src="misc/images/rui.jpg" width="150"/> |
   |:-:|:-:|:-:|:-:|:-:|
   | **[Phil McMinn](https://mcminn.info)** <br /> Lecturer <br /> Weeks 1-5 | **[José Rojas](https://jmrojas.github.io)** <br /> Lecturer <br /> Weeks 6-10 | **Islam Elgendy** <br /> Teaching Assistant | **Megan Maton** <br /> Demonstrator | **Ruizhen (Rui) Gu** <br /> Demonstrator|
 
 ## 2. Schedule and Materials
 
-| Week | Lecture | Practical Session | Materials |
-|-:|-|-|--|
-| 1 | **Introduction**<ul><li>Beizer's Maturity Model</li><li>Why finding all bugs is impossible</li><li>How software failures happen (the RIPR model)</li></ul>| TBA | Not available yet|
-|2 | **Testing Big and Small Part 1**<ul><li>Test Automation</li><li>Testing Scope (The Test Triangle)</li><li>Unit Testing Part 1<ul><li> Avoiding Brittle Tests</li></ul></li></ul> | TBA | Not available yet|
-|3 | **Testing Big and Small Part 2**<ul><li>Unit Testing Part 2<ul><li>Writing Clear Unit Tests</li><li>Test Doubles</li></ul></li></ul> | TBA | Not available yet|
-|4 | **NB:** For this week only, the lecture will be on *Thursday* at 1pm in LT2 of the Sir Henry Stephenson Building. <br /> <br /> **Testing Big and Small Part 3**<ul><li>Larger Tests</li></ul>**Coverage Criteria, Part 1**<ul><li>Introduction to Coverage Criteria</li></ul> | **NB:** For this week only, the lecture will be on *Tuesday* at 1pm in CR3 of the Diamond. <br /> <br /> TBA | Not available yet| 
-|5 | **Coverage Criteria, Part 2**<ul><li>Control Flow Analysis and Testing</li><li>Data Flow Analysis and Testing</li><li>Input Domain Analysis and Testing</li></ul> | TBA | Not available yet|
-|6 | TBA | TBA | Not available yet|
-|7 | TBA | TBA | Not available yet|
-|Easter|     |     |                  |
-|8 | TBA | TBA | Not available yet|
-|9 | TBA | TBA | Not available yet|
-|10| TBA | TBA | Not available yet|
-
+| Week | Lecture | Practical Session |
+|-:|-|-|
+|1 | **[Introduction](week1/1-introduction.pdf)**<ul><li>Beizer's Maturity Model</li><li>Why finding all bugs is impossible</li><li>How software failures happen (the RIPR model)</li></ul>| TBA |
+|2 | **Testing Big and Small Part 1**<ul><li>Test Automation</li><li>Testing Scope (The Test Triangle)</li><li>Unit Testing Part 1<ul><li> Avoiding Brittle Tests</li></ul></li></ul> | TBA | 
+|3 | **Testing Big and Small Part 2**<ul><li>Unit Testing Part 2<ul><li>Writing Clear Unit Tests</li><li>Test Doubles</li></ul></li></ul> | TBA | 
+|4 | **NB:** For this week only, the lecture will be on *Thursday* at 1pm in LT2 of the Sir Henry Stephenson Building. <br /> <br /> **Testing Big and Small Part 3**<ul><li>Larger Tests</li></ul>**Coverage Criteria, Part 1**<ul><li>Introduction to Coverage Criteria</li></ul> | **NB:** For this week only, the lecture will be on *Tuesday* at 1pm in CR3 of the Diamond. <br /> <br /> TBA |
+|5 | **Coverage Criteria, Part 2**<ul><li>Control Flow Analysis and Testing</li><li>Data Flow Analysis and Testing</li><li>Input Domain Analysis and Testing</li></ul> | TBA |
+|6 | TBA | TBA |
+|7 | TBA | TBA |
+|Easter| | |
+|8 | TBA | TBA |
+|9 | TBA | TBA |
+|10| TBA | TBA |
 
 ### Lectures
 
