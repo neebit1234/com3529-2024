@@ -11,8 +11,8 @@ Each method has a defect. You will need to write JUnit tests for each defect
 and establish a fix.
     
 Specifically, for each method in `Week1.java`, you will need to answer the
-following questions, which you'll need to submit as a PDF report. The tests you
-write should be added to a class called `Week1Test.java` (NB: When naming
+following questions. The tests you
+write can be added to a class called `Week1Test.java` (NB: When naming
 tests, `[methodName]` should be replaced by the name of the method you are
 writing the test for.)
 
