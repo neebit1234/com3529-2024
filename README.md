@@ -47,6 +47,6 @@ COM3529 is assessed 100% by an exam, to be scheduled sometime in Weeks 13, 14 or
 
 **The practical sessions are designed to prepare you with exercises that will be similar to questions asked in the exam**. 
 
-The exam may feature questions **requiring you to write Java code**. In this questions you will be expected to write code that is syntactically correct, including writing JUnit tests that may require calls to methods in libraries studied in the module. 
+The exam may feature questions **requiring you to write Java code**. In these questions, you will be expected to write **syntactically correct code**, including writing JUnit tests that may require calls to methods in libraries studied in the module. 
 
 
