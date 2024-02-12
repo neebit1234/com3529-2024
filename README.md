@@ -3,9 +3,12 @@
 Welcome! This repository code examples, practical sheets, and slides to support the Spring Semester module COM3529 "Software Testing and Analysis" at the University of Sheffield.
 
 Jump to:
-* [1. Teaching Staff](#1-teaching-staff)
-* [2. Schedule and Materials](#2-schedule-and-materials)
-* [3. Assessment](#3-assessment)
+- [COM3529 – Software Testing and Analysis  Spring Semester 2024](#com3529-software-testing-and-analysis--spring-semester-2024)
+  - [1. Teaching Staff](#1-teaching-staff)
+  - [2. Schedule and Materials](#2-schedule-and-materials)
+    - [Lectures](#lectures)
+    - [Practical Sessions (Labs)](#practical-sessions-labs)
+  - [3. Assessment](#3-assessment)
 
 ## 1. Teaching Staff
 
@@ -22,12 +25,12 @@ Jump to:
 |3 | **Testing Big and Small Part 2**<ul><li>Unit Testing Part 2<ul><li>Writing Clear Unit Tests</li><li>Test Doubles</li></ul></li></ul> | TBA | 
 |4 | **NB:** For this week only, the lecture will be on *Thursday* at 1pm in LT2 of the Sir Henry Stephenson Building. <br /> <br /> **Testing Big and Small Part 3**<ul><li>Larger Tests</li></ul>**Coverage Criteria, Part 1**<ul><li>Introduction to Coverage Criteria</li></ul> | **NB:** For this week only, the lecture will be on *Tuesday* at 1pm in CR3 of the Diamond. <br /> <br /> TBA |
 |5 | **Coverage Criteria, Part 2**<ul><li>Control Flow Analysis and Testing</li><li>Data Flow Analysis and Testing</li><li>Input Domain Analysis and Testing</li></ul> | TBA |
-|6 | TBA | TBA |
-|7 | TBA | TBA |
+|6 | **Mutation Testing** | TBA |
+|7 | **Regression Testing (Test Suite Selection, Minimisation and Prioritisation)** | TBA |
 |Easter| | |
-|8 | TBA | TBA |
-|9 | TBA | TBA |
-|10| TBA | TBA |
+|9 | **Fuzzing** | TBA |
+|10| **Search-based Test Generation** | TBA |
+|11| **Model-Based Testing** | TBA |
 
 ### Lectures
 
