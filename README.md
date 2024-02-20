@@ -3,7 +3,6 @@
 Welcome! This repository code examples, practical sheets, and slides to support the Spring Semester module COM3529 "Software Testing and Analysis" at the University of Sheffield.
 
 Jump to:
-- [COM3529 – Software Testing and Analysis  Spring Semester 2024](#com3529-software-testing-and-analysis--spring-semester-2024)
   - [1. Teaching Staff](#1-teaching-staff)
   - [2. Schedule and Materials](#2-schedule-and-materials)
     - [Lectures](#lectures)
