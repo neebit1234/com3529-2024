@@ -23,7 +23,7 @@ Jump to:
 |1 | **[Introduction](week1/1-introduction.pdf)**<ul><li>Beizer's Maturity Model</li><li>Why finding all bugs is impossible</li><li>How software failures happen (the RIPR model)</li></ul>| [Getting Started](week1/practical-session-background-information.pdf) |
 |2 | **Testing Big and Small Part 1**<ul><li>[Test Automation](week2/2-test-automation.pdf)</li><li>[Testing Scope (The Test Triangle)](week2/3-test-scope.pdf)</li><li>[Unit Testing Part 1](week2/4-1-unit-testing-part-1.pdf)<ul><li>Avoiding Brittle Tests</li></ul></li></ul> | [Defects, Infections and Failures](week2/practical.md) | 
 |3 | **Testing Big and Small Part 2**<ul><li>[Unit Testing Part 2](week3/4-2-unit-testing-part-2.pdf)<ul><li>Writing Clear Unit Tests</li></ul><li>[Test Doubles](week3/5-test-doubles.pdf)</li></ul> | Better Unit Testing | 
-|4 | **NB:** For this week only, the lecture will be on *Thursday* at 1pm in LT2 of the Sir Henry Stephenson Building. <br /> <br /> **Testing Big and Small Part 3**<ul><li>Larger Tests</li></ul>**Coverage Criteria, Part 1**<ul><li>Introduction to Coverage Criteria</li></ul> | **NB:** For this week only, the practical session will be on *Tuesday* at 1pm in CR3 of the Diamond. <br /> <br /> Test Doubles |
+|4 | **Testing Big and Small Part 3**<ul><li>Larger Tests</li></ul>**Coverage Criteria, Part 1**<ul><li>Introduction to Coverage Criteria</li></ul> | Test Doubles |
 |5 | **Coverage Criteria, Part 2**<ul><li>Control Flow Analysis and Testing</li><li>Data Flow Analysis and Testing</li><li>Input Domain Analysis and Testing</li></ul> | TBA |
 |6 | **Mutation Testing** | TBA |
 |7 | **Regression Testing (Test Suite Selection, Minimisation and Prioritisation)** | TBA |
