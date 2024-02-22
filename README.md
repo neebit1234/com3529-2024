@@ -27,6 +27,7 @@ Jump to:
 |6 | **Mutation Testing** | TBA |
 |7 | **Regression Testing (Test Suite Selection, Minimisation and Prioritisation)** | TBA |
 |Easter| | |
+|8 | *No lecture* | *No practical session* |
 |9 | **Fuzzing** | TBA |
 |10| **Search-based Test Generation** | TBA |
 |11| **Model-Based Testing** | TBA |
