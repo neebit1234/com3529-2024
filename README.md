@@ -23,7 +23,7 @@ Jump to:
 |2 | **Testing Big and Small Part 1**<ul><li>[Test Automation](week2/2-test-automation.pdf)</li><li>[Testing Scope (The Test Triangle)](week2/3-test-scope.pdf)</li><li>[Unit Testing Part 1](week2/4-1-unit-testing-part-1.pdf)<ul><li>Avoiding Brittle Tests</li></ul></li></ul> | [Defects, Infections and Failures](week2/practical.md) / [Solutions](week2/practical-solutions.md) | 
 |3 | **Testing Big and Small Part 2**<ul><li>[Unit Testing Part 2](week3/4-2-unit-testing-part-2.pdf)<ul><li>Writing Clear Unit Tests</li></ul><li>[Test Doubles](week3/5-test-doubles.pdf)</li></ul> | [Better Unit Testing](week3/practical.md) / [Solutions](week3/practical-solutions.md) | 
 |4 | **Testing Big and Small Part 3**<ul><li>Larger Tests</li></ul>**Coverage Criteria, Part 1**<ul><li>Introduction to Coverage Criteria</li></ul> | Test Doubles |
-|5 | **Coverage Criteria, Part 2**<ul><li>Control Flow Analysis and Testing</li><li>Data Flow Analysis and Testing</li><li>Input Domain Analysis and Testing</li></ul> | TBA |
+|5 | **Coverage Criteria, Part 2**<ul><li>Control Flow Analysis and Testing</li><li>Data Flow Analysis and Testing</li><li>Logic Analysis and Testing</li><li>Conclusions on Coverage</li></ul> | TBA |
 |6 | **Mutation Testing** | TBA |
 |7 | **Regression Testing (Test Suite Selection, Minimisation and Prioritisation)** | TBA |
 |Easter| | |
