@@ -23,7 +23,7 @@ repository, you can build and run this example:
 
 ```
 ./gradlew build
-java -cp ./lib/build/classes/java/main uk.ac.shef.com3529.CommandLineCalculator
+java -cp ./lib/build/classes/java/main uk.ac.shef.com3529.calculator.CommandLineCalculator
 ```
 
 An example run looks as follows:
