@@ -23,7 +23,7 @@ Jump to:
 |2 | **Testing Big and Small Part 1**<ul><li>[Test Automation](week2/2-test-automation.pdf)</li><li>[Testing Scope (The Test Triangle)](week2/3-test-scope.pdf)</li><li>[Unit Testing Part 1](week2/4-1-unit-testing-part-1.pdf)<ul><li>Avoiding Brittle Tests</li></ul></li></ul> | [Defects, Infections and Failures](week2/practical.md) / [Solutions](week2/practical-solutions.md) | 
 |3 | **Testing Big and Small Part 2**<ul><li>[Unit Testing Part 2](week3/4-2-unit-testing-part-2.pdf)<ul><li>Writing Clear Unit Tests</li></ul><li>[Test Doubles](week3/5-test-doubles.pdf)</li></ul> | [Better Unit Testing](week3/practical.md) / [Solutions](week3/practical-solutions.md) | 
 |4 | **Testing Big and Small Part 3**<ul><li>[Larger Tests](week4/6-larger-tests.pdf)</li></ul>**Coverage Criteria, Part 1**<ul><li>[Introduction to Coverage Criteria](week4/7-coverage-criteria.pdf)</li></ul> | [Test Doubles](week4/practical.md) / [Solutions](week4/practical-solutions.md) |
-|5 | **Coverage Criteria, Part 2**<ul><li>[Control Flow Analysis and Testing](week5/8-control-flow-analysis-and-testing.pdf)</li><li>[Data Flow Analysis and Testing](week5/9-data-flow-analysis-and-testing.pdf)</li><li>[Conclusions on Coverage](week5/10-coverage-criteria-conclusions)</li></ul> | Test Coverage |
+|5 | **Coverage Criteria, Part 2**<ul><li>[Control Flow Analysis and Testing](week5/8-control-flow-analysis-and-testing.pdf)</li><li>[Data Flow Analysis and Testing](week5/9-data-flow-analysis-and-testing.pdf)</li><li>[Conclusions on Coverage](week5/10-coverage-criteria-conclusions.pdf)</li></ul> | Test Coverage |
 |6 | **Mutation Testing** | TBA |
 |7 | **Regression Testing (Test Suite Selection, Minimisation and Prioritisation)** | TBA |
 |Easter| | |
