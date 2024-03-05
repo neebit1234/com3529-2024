@@ -44,8 +44,8 @@ Enter a number:
 [`Calculator`](../code/lib/src/main/java/uk/ac/shef/com3529/calculator/Calculator.java)
 that gets full coverage of the class.**
 
-You can check coverage with JaCoCo, which you used to complete the last set of
-exercises. You'll need to write test doubles for the Reader and Writer
+You can check coverage with JaCoCo, as demonstrated in lectures.
+You'll need to write test doubles for the Reader and Writer
 interfaces. You can do this manually, or with Mockito. 
 
 Note that with Mockito, you can make a stub return different values in sequence,
