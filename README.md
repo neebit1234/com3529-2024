@@ -3,6 +3,7 @@
 Welcome! This repository code examples, practical sheets, and slides to support the Spring Semester module COM3529 "Software Testing and Analysis" at the University of Sheffield.
 
 Jump to:
+- [COM3529 – Software Testing and Analysis  Spring Semester 2024](#com3529-software-testing-and-analysis--spring-semester-2024)
   - [1. Teaching Staff](#1-teaching-staff)
   - [2. Schedule and Materials](#2-schedule-and-materials)
     - [Lectures](#lectures)
@@ -24,7 +25,7 @@ Jump to:
 |3 | **Testing Big and Small Part 2**<ul><li>[Unit Testing Part 2](week3/4-2-unit-testing-part-2.pdf)<ul><li>Writing Clear Unit Tests</li></ul><li>[Test Doubles](week3/5-test-doubles.pdf)</li></ul> | [Better Unit Testing](week3/practical.md) / [Solutions](week3/practical-solutions.md) | 
 |4 | **Testing Big and Small Part 3**<ul><li>[Larger Tests](week4/6-larger-tests.pdf)</li></ul>**Coverage Criteria, Part 1**<ul><li>[Introduction to Coverage Criteria](week4/7-coverage-criteria.pdf)</li></ul> | [Test Doubles](week4/practical.md) / [Solutions](week4/practical-solutions.md) |
 |5 | **Coverage Criteria, Part 2**<ul><li>[Control Flow Analysis and Testing](week5/8-control-flow-analysis-and-testing.pdf)</li><li>[Data Flow Analysis and Testing](week5/9-data-flow-analysis-and-testing.pdf)</li><li>[Conclusions on Coverage](week5/10-coverage-criteria-conclusions.pdf)</li></ul> | [Test Coverage](week5/coverage.md) and [Control Flow Graphs](week5/cfgs.md) |
-|6 | **Mutation Testing** | TBA |
+|6 | **[Mutation Testing](week6/w6-mutation.pdf)** | TBA |
 |7 | **Regression Testing (Test Suite Selection, Minimisation and Prioritisation)** | TBA |
 |Easter| | |
 |8 | *No lecture* | *No practical session* |
