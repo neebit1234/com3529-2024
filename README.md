@@ -14,7 +14,7 @@ Jump to:
 
   |<img src="misc/images/phil.jpg" width="150"/> | <img src="misc/images/jose.jpg" width="150"/> | <img src="misc/images/islam.jpg" width="150"/> | <img src="misc/images/megan.jpg" width="150"/> | <img src="misc/images/rui.jpg" width="150"/> |
   |:-:|:-:|:-:|:-:|:-:|
-  | **[Phil McMinn](https://mcminn.info)** <br /> Lecturer <br /> Weeks 1-5 | **[José Rojas](https://jmrojas.github.io)** <br /> Lecturer <br /> Weeks 6-10 | **Islam Elgendy** <br /> Teaching Assistant | **Megan Maton** <br /> Demonstrator | **Ruizhen (Rui) Gu** <br /> Demonstrator|
+  | **[Phil McMinn](https://mcminn.info)** <br /> Lecturer <br /> Weeks 1-5 | **[José Rojas](https://jmrojas.github.io)** <br /> Lecturer <br /> Weeks 6-11 | **Islam Elgendy** <br /> Teaching Assistant | **Megan Maton** <br /> Demonstrator | **Ruizhen (Rui) Gu** <br /> Demonstrator|
 
 ## 2. Schedule and Materials
 
@@ -25,7 +25,7 @@ Jump to:
 |3 | **Testing Big and Small Part 2**<ul><li>[Unit Testing Part 2](week3/4-2-unit-testing-part-2.pdf)<ul><li>Writing Clear Unit Tests</li></ul><li>[Test Doubles](week3/5-test-doubles.pdf)</li></ul> | [Better Unit Testing](week3/practical.md) ([Solutions](week3/practical-solutions.md)) | 
 |4 | **Testing Big and Small Part 3**<ul><li>[Larger Tests](week4/6-larger-tests.pdf)</li></ul>**Coverage Criteria, Part 1**<ul><li>[Introduction to Coverage Criteria](week4/7-coverage-criteria.pdf)</li></ul> | [Test Doubles](week4/practical.md) ([Solutions](week4/practical-solutions.md)) |
 |5 | **Coverage Criteria, Part 2**<ul><li>[Control Flow Analysis and Testing](week5/8-control-flow-analysis-and-testing.pdf)</li><li>[Data Flow Analysis and Testing](week5/9-data-flow-analysis-and-testing.pdf)</li><li>[Conclusions on Coverage](week5/10-coverage-criteria-conclusions.pdf)</li></ul> | [Test Coverage](week5/coverage.md) ([Solutions](week5/coverage-solutions.md)) and [Control Flow Graphs](week5/cfgs.md) ([Solutions](week5/cfgs-solutions.md)) |
-|6 | **[Mutation Testing](week6/w6-mutation.pdf)** | TBA |
+|6 | **[Mutation Testing](week6/w6-mutation.pdf)** | [Code Defenders](week6/CodeDefenders.pdf) |
 |7 | **Regression Testing (Test Suite Selection, Minimisation and Prioritisation)** | TBA |
 |Easter| | |
 |8 | *No lecture* | *No practical session* |
@@ -50,6 +50,5 @@ COM3529 is assessed 100% by an exam, to be scheduled sometime in Weeks 13, 14 or
 
 The exam may feature questions **requiring you to write Java code**. This code
 needs to be **syntactically correct** and may involve writing JUnit tests that
-call to methods to libraries (e.g., mocking libraries) studied in the module. 
-
+call methods in libraries studied in the module (e.g., mocking libraries).
 
