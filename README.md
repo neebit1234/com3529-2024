@@ -26,7 +26,7 @@ Jump to:
 |4 | **Testing Big and Small Part 3**<ul><li>[Larger Tests](week4/6-larger-tests.pdf)</li></ul>**Coverage Criteria, Part 1**<ul><li>[Introduction to Coverage Criteria](week4/7-coverage-criteria.pdf)</li></ul> | [Test Doubles](week4/practical.md) ([Solutions](week4/practical-solutions.md)) |
 |5 | **Coverage Criteria, Part 2**<ul><li>[Control Flow Analysis and Testing](week5/8-control-flow-analysis-and-testing.pdf)</li><li>[Data Flow Analysis and Testing](week5/9-data-flow-analysis-and-testing.pdf)</li><li>[Conclusions on Coverage](week5/10-coverage-criteria-conclusions.pdf)</li></ul> | [Test Coverage](week5/coverage.md) ([Solutions](week5/coverage-solutions.md)) and [Control Flow Graphs](week5/cfgs.md) ([Solutions](week5/cfgs-solutions.md)) |
 |6 | **[Mutation Testing](week6/w6-mutation.pdf)** | [Code Defenders](week6/CodeDefenders.pdf) |
-|7 | **Regression Testing (Test Suite Selection, Minimisation and Prioritisation)** | TBA |
+|7 | **[Regression Testing (Test Suite Selection, Minimisation and Prioritisation)](week7/w7-regression.pdf)** | TBA |
 |Easter| | |
 |8 | *No lecture* | *No practical session* |
 |9 | **Fuzzing** | TBA |
