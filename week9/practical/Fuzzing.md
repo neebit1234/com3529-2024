@@ -49,10 +49,10 @@ def run_program(program, input_string):
 
 Notice that our `run_program` function oversimplifies the problem and _overfits_ to our target program by taking only one string as input and not taking any additional arguments. Feel free to improve this function to be able to execute more complex target programs.
 
-You can now test that you can execute the `Greeting` java program by running:
+You can now test that you can execute the `Greeting` Java program by running:
 
 ```shell
-python3 -c 'from jfuzzer import run_program; exec = run_program("Greeting", "José"); print(exec.stdout.decode())'
+python3 -c "from jfuzzer import run_program; exec = run_program('Greeting', 'Jose'); print(exec.stdout.decode());"
 ```
 
 ### Generating Random Strings

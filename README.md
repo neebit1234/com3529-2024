@@ -29,8 +29,8 @@ Jump to:
 |7 | **[Regression Testing (Test Suite Selection, Minimisation and Prioritisation)](week7/w7-regression.pdf)** | [Regression Testing](week7/regression-testing.md) ([Solution](week7/regression-testing-solutions.md)) |
 |Easter| | |
 |8 | *No lecture* | *No practical session* |
-|9 | **[Fuzzing](week9/w9-fuzzing.pdf)** | [Your first fuzzer](week9/practical/Fuzzing.md) |
-|10| **Search-based Test Generation** | TBA |
+|9 | **[Fuzzing](week9/w9-fuzzing.pdf)** | [Your first fuzzer](week9/practical/Fuzzing.md) ([Solution](week9/practical/solution/)) |
+|10| **[Search-based Test Generation](week10/w10-sbst.pdf)** | TBA |
 |11| **Model-Based Testing** | TBA |
 
 ### Lectures
