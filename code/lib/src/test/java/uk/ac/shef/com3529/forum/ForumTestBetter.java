@@ -1,8 +1,8 @@
 package uk.ac.shef.com3529.forum;
 
-import org.hamcrest.Matchers;
 import org.junit.jupiter.api.Test;
 
+import java.util.List;
 import java.util.Set;
 
 import static org.hamcrest.MatcherAssert.assertThat;
@@ -11,7 +11,23 @@ import static org.hamcrest.Matchers.containsInAnyOrder;
 import static org.hamcrest.core.IsEqual.equalTo;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
-public class ForumTest_Better {
+public class ForumTestBetter {
+
+//    @Test
+//    public void shouldReturnAllUsersPosts() {
+//        // Given a forum with a registered user
+//        Forum forum = new Forum();
+//        forum.registerUser("billy", "billy", "emailAddress");
+//        forum.post("billy", "subject", "content");
+//
+//        // Request all posts by billy
+//        List<Post> posts = forum.getPostsByUser("billy");
+//
+//        // Then return all posts
+//        assertThat(posts.size(), equalTo(1));
+//        assertThat(posts.get(0).subject, equalTo("subject"));
+//        assertThat(posts.get(0).content, equalTo("content"));
+//    }
 
     @Test
     public void shouldNotLoginBannedUser() {
