@@ -30,8 +30,8 @@ Jump to:
 |Easter| | |
 |8 | *No lecture* | *No practical session* |
 |9 | **[Fuzzing](week9/w9-fuzzing.pdf)** | [Your first fuzzer](week9/practical/Fuzzing.md) ([Solution](week9/practical/solution/)) |
-|10| **[Search-based Test Generation](week10/w10-sbst.pdf)** | TBA |
-|11| **Model-Based Testing** | TBA |
+|10| **[Search-based Test Generation](week10/w10-sbst.pdf)** | [EvoSuite Tutorial](week10/evosuite-demo/evosuite-demo.md) |
+|11| **[Model-Based Testing](week11/w11-MBT.pdf)** | TBA |
 
 ### Lectures
 
