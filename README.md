@@ -31,7 +31,7 @@ Jump to:
 |8 | *No lecture* | *No practical session* |
 |9 | **[Fuzzing](week9/w9-fuzzing.pdf)** | [Your first fuzzer](week9/practical/Fuzzing.md) ([Solution](week9/practical/solution/)) |
 |10| **[Search-based Test Generation](week10/w10-sbst.pdf)** | [EvoSuite Tutorial](week10/evosuite-demo/evosuite-demo.md) |
-|11| **[Model-Based Testing](week11/w11-MBT.pdf)** | [Exercises](week11/MBT-practical.md) ([Solution](week11/MBT-practical-solutions.md)) |
+|11| **[Model-Based Testing](week11/w11-MBT.pdf)** | [Exercises](week11/MBT-practical.md) (Solution [.md](week11/MBT-practical-solutions.md)[.pdf](week11/MBT-practical-solutions.pdf)) |
 
 ### Lectures
 
