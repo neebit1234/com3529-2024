@@ -72,14 +72,7 @@ For each FSM $M_i$ given above:
 
     To see that this includes each transition we simply need to check
     that for each state $s_i$, each input has been received when $M_1$
-    is in state $s_i$
-
-    To check each transition we might use:
-
-    -   Transitions from $s_0$: $\{aba, bb\}$
-    -   Transitions from $s_1$: $\{abaa, aaaa\}$
-    -   Transitions from $s_2$: $\{aaaaa, aabb\}$
-    -   Transitions from $s_3$: $\{ baaa, bbb\}$
+    is in state $s_i$.
 
 4. There are UIOs for each state, including the following.
 
@@ -173,13 +166,6 @@ For each FSM $M_i$ given above:
 
 
 3.  Transition tours include: $ababbaabb$
-
-    To check each transition we might use:
-
-    -   Transitions from $s_0$: $\{ab, aaa, bb, baa\}$
-    -   Transitions from $s_1$: $\{bab, baaa, bbb, bbaa\}$
-    -   Transitions from $s_2$: $\{bbab, bbaaa, bbbb, bbbaa\}$
-    -   Transitions from $s_3$: $\{bbaab, bbaaaa, bbabb, bbabaa\}$
 
 4.  There is no UIO for state $s_1$. To see this, let us suppose that
     there was a UIO for $s_1$. We find the following.
