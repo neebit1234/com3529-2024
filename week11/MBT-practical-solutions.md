@@ -119,16 +119,6 @@ For each FSM $M_i$ given above:
     aaa, ab, baa, bb, aaaa, aab, abaa, abb, aaaaa, aaab, aabaa, aabb, baaa, bab, bbaa, bbb
     \}$$
 
-    (Alternative) Applying the W-Method, we use: $V = \{\epsilon, a, aa, b\}$,
-    $W = \{a,b\}$. We therefore obtain the following:
-
-    $$\{\epsilon, a, aa, b\} \{a,b\} \{a,b\}$$
-
-    We can expand this out to get:
-
-    $$\{
-    aa, ab, ba, bb, aaa, aab, aba, abb, aaaa, aaab, aaba, aabb, baa, bab, bba, bbb
-    \}$$
 
 ### Answers for $M_2$
 
