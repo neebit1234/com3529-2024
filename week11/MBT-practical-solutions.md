@@ -72,14 +72,7 @@ For each FSM $M_i$ given above:
 
     To see that this includes each transition we simply need to check
     that for each state $s_i$, each input has been received when $M_1$
-    is in state $s_i$
-
-    To check each transition we might use:
-
-    -   Transitions from $s_0$: $\{aba, bb\}$
-    -   Transitions from $s_1$: $\{abaa, aaaa\}$
-    -   Transitions from $s_2$: $\{aaaaa, aabb\}$
-    -   Transitions from $s_3$: $\{ baaa, bbb\}$
+    is in state $s_i$.
 
 4. There are UIOs for each state, including the following.
 
@@ -126,16 +119,6 @@ For each FSM $M_i$ given above:
     aaa, ab, baa, bb, aaaa, aab, abaa, abb, aaaaa, aaab, aabaa, aabb, baaa, bab, bbaa, bbb
     \}$$
 
-    (Alternative) Applying the W-Method, we use: $V = \{\epsilon, a, aa, b\}$,
-    $W = \{a,b\}$. We therefore obtain the following:
-
-    $$\{\epsilon, a, aa, b\} \{a,b\} \{a,b\}$$
-
-    We can expand this out to get:
-
-    $$\{
-    aa, ab, ba, bb, aaa, aab, aba, abb, aaaa, aaab, aaba, aabb, baa, bab, bba, bbb
-    \}$$
 
 ### Answers for $M_2$
 
@@ -173,13 +156,6 @@ For each FSM $M_i$ given above:
 
 
 3.  Transition tours include: $ababbaabb$
-
-    To check each transition we might use:
-
-    -   Transitions from $s_0$: $\{ab, aaa, bb, baa\}$
-    -   Transitions from $s_1$: $\{bab, baaa, bbb, bbaa\}$
-    -   Transitions from $s_2$: $\{bbab, bbaaa, bbbb, bbbaa\}$
-    -   Transitions from $s_3$: $\{bbaab, bbaaaa, bbabb, bbabaa\}$
 
 4.  There is no UIO for state $s_1$. To see this, let us suppose that
     there was a UIO for $s_1$. We find the following.

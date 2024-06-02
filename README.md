@@ -26,12 +26,12 @@ Jump to:
 |4 | **Testing Big and Small Part 3**<ul><li>[Larger Tests](week4/6-larger-tests.pdf)</li></ul>**Coverage Criteria, Part 1**<ul><li>[Introduction to Coverage Criteria](week4/7-coverage-criteria.pdf)</li></ul> | [Test Doubles](week4/practical.md) ([Solutions](week4/practical-solutions.md)) |
 |5 | **Coverage Criteria, Part 2**<ul><li>[Control Flow Analysis and Testing](week5/8-control-flow-analysis-and-testing.pdf)</li><li>[Data Flow Analysis and Testing](week5/9-data-flow-analysis-and-testing.pdf)</li><li>[Conclusions on Coverage](week5/10-coverage-criteria-conclusions.pdf)</li></ul> | [Test Coverage](week5/coverage.md) ([Solutions](week5/coverage-solutions.md)) and [Control Flow Graphs](week5/cfgs.md) ([Solutions](week5/cfgs-solutions.md)) |
 |6 | **[Mutation Testing](week6/w6-mutation.pdf)** | [Code Defenders](week6/CodeDefenders.pdf) |
-|7 | **[Regression Testing (Test Suite Selection, Minimisation and Prioritisation)](week7/w7-regression.pdf)** | [Regression Testing](week7/regression-testing.md) ([Solution](week7/regression-testing-solutions.md)) |
+|7 | **[Regression Testing (Test Suite Selection, Minimisation and Prioritisation)](week7/w7-regression.pdf)** | [Regression Testing](week7/regression-testing.md) (Solution: [.md](week7/regression-testing-solutions.md)\|[.pdf](week7/regression-testing-solutions.pdf)) |
 |Easter| | |
 |8 | *No lecture* | *No practical session* |
 |9 | **[Fuzzing](week9/w9-fuzzing.pdf)** | [Your first fuzzer](week9/practical/Fuzzing.md) ([Solution](week9/practical/solution/)) |
 |10| **[Search-based Test Generation](week10/w10-sbst.pdf)** | [EvoSuite Tutorial](week10/evosuite-demo/evosuite-demo.md) |
-|11| **[Model-Based Testing](week11/w11-MBT.pdf)** | [Exercises](week11/MBT-practical.md) (Solution [.md](week11/MBT-practical-solutions.md)[.pdf](week11/MBT-practical-solutions.pdf)) |
+|11| **[Model-Based Testing \*\*updated\*\*](week11/w11-MBT.pdf)** ([slides with overlays](week11/w11-MBT-with-overlays.pdf)) (Last year's recordings: [Intro](https://drive.google.com/file/d/1Fa_47Nd5KaMsfZLTi9dXXcZ5qj36i6RL/view?usp=sharing), [FSM Properties](https://drive.google.com/file/d/1F_CZAG1JthjXx5i6U6NolxMyo0f40asR/view?usp=sharing), [Transition Tours](https://drive.google.com/file/d/1FcOVa8uuN6Cax35W2kgEPVsukoIsd3S8/view?usp=sharing), [Checking States](https://drive.google.com/file/d/1Fc3uRjIT88gKvThEXpcKO979r5QY3fnQ/view?usp=sharing), [W Method](https://drive.google.com/file/d/1FeKXXhw-lfN3cpd-JcyJIkDzz_j-Ydle/view?usp=drive_link)) | [Exercises](week11/MBT-practical.md) (Solution: [.md](week11/MBT-practical-solutions.md)\|[.pdf](week11/MBT-practical-solutions.pdf)) |
 
 ### Lectures
 
